@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martid1703
-- 👀 I’m interested in Unity, Gamedev, C#, .NET, AI, Arduino
+- 👀 I’m interested in .NET, Unity, Web development, AI, Arduino
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me - here.
